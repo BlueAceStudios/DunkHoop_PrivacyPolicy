@@ -1,0 +1,58 @@
+Thank you for playing Dunk Hoop developed by BlueAceStudios.
+
+This Privacy Policy explains how we collect, use, and protect user information when you use our mobile game.
+
+Information We Collect
+
+Our game may collect certain information automatically through third-party services used in the app, including:
+
+Device information
+Advertising ID
+IP address
+App interactions and usage data
+Crash reports and diagnostics
+Advertising
+
+Our game uses third-party advertising services such as:
+
+Google AdMob
+
+These services may use cookies, advertising IDs, and similar technologies to show personalized or non-personalized advertisements.
+
+You can learn more about how Google uses data here:
+
+Google Privacy & Terms
+
+Rewarded, Interstitial, and Banner Ads
+
+The game may display:
+
+Banner advertisements
+Interstitial advertisements
+Rewarded video advertisements
+
+Rewarded ads are optional and users may choose whether to watch them.
+
+Data Sharing
+
+We do not sell personal information directly. However, third-party services integrated into the game may process data according to their own privacy policies.
+
+Children's Privacy
+
+Our game is not directed toward children under 3 unless specifically stated on the Google Play Store listing.
+
+If you believe a child has provided personal information, please contact us so we can take appropriate action.
+
+Security
+
+We take reasonable steps to protect user information, but no method of electronic storage or transmission over the internet is completely secure.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page.
+
+Contact Us
+
+If you have any questions about this Privacy Policy, contact us at:
+
+Email: blueacestuiosofficial@gmail.com
