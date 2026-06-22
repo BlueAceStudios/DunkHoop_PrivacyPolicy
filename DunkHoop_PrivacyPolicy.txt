@@ -19,7 +19,7 @@ Google AdMob
 
 These services may use cookies, advertising IDs, and similar technologies to show personalized or non-personalized advertisements.
 
-You can learn more about how Google uses data in their (https://policies.google.com/technologies/partner-sites?hl=en-GB) or read specifically about advertising cookies on the (https://policies.google.com/technologies/cookies?hl=en-US)
+You can learn more about how Google uses data in their ( https://policies.google.com/technologies/partner-sites?hl=en-GB ) or read specifically about advertising cookies on the ( https://policies.google.com/technologies/cookies?hl=en-US )
 
 The game may display:
 
